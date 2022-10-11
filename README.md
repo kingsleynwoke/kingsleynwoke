@@ -1,4 +1,4 @@
-Hi 👋 my name is Kingsley Nwokebirinwa
+Hi 👋 My name is Kingsley Nwokebirinwa
 ======================================
 
 Computational Science student
@@ -15,10 +15,9 @@ Computational Science student with a background in Civil Engineering. I am curre
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
+### Socials
+                          
+<p align="left">
                           
                       <a href="https://www.github.com/kingsleynwoke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
