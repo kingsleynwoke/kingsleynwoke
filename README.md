@@ -1,10 +1,10 @@
-Hi 👋 My name is Kingsley Nwokebirinwa
+Hi 👋 my name is Kingsley Nwokebirinwa
 ======================================
 
 Computational Science student
 -----------------------------
 
-Computational Science student with a background in Civil Engineering. I am currently into numerical modelling, weather and climate data analysis and visualisation.
+I am a computational science student at Freie Universität Berlin with a background in civil engineering. I am into numerical modelling, weather and climate data analysis and visualisation, and also interested in software quality and development, data driven science and engineering.
 
 * 🌍  I'm based in Berlin, Germany
 * ✉️  You can contact me at [nwakingsleych@gmail.com](mailto:nwakingsleych@gmail.com)
