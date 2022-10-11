@@ -1,4 +1,4 @@
-Hi 👋 My name is Kingsley Nwokebirinwa
+Hi 👋 my name is Kingsley Nwokebirinwa
 ======================================
 
 Computational Science student
