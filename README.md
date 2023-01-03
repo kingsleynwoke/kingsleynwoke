@@ -7,7 +7,7 @@ Computational Science student
 I am a computational science student at Freie Universität Berlin with a background in civil engineering. I am into numerical modelling, weather and climate data analysis and visualisation, and also interested in software quality and development, data driven science and engineering.
 
 * 🌍  I'm based in Berlin, Germany
-* ✉️  You can contact me at [nwakingsleych@gmail.com](mailto:nwakingsleych@gmail.com)
+* ✉️  You can contact me at [nwakingsleych@gmail.com](mailto:nwakingsleych@gmail.com) or +49 163 249 0747
 * 🧠  I'm learning Data Driven Science and Engineering
 * 🤝  I'm open to collaborating on projects
 
