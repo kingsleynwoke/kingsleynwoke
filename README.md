@@ -9,7 +9,7 @@ I am a computational science student at Freie Universität Berlin with a backgro
 * 🌍  I'm based in Berlin, Germany
 * ✉️  You can contact me at [nwakingsleych@gmail.com](mailto:nwakingsleych@gmail.com) or +49 163 249 0747
 * 🧠  I'm learning Data Driven Science and Engineering
-* 🤝  I'm open to collaborating on projects
+* 🤝  I'm open to internship, work or collaborate on projects
 
 ### Skills
 
